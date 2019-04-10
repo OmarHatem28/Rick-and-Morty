@@ -9,14 +9,16 @@ you can post your favourite quotes of the show.
 the app is very easy to use, and there is more updates on the way.
 you can send me your feedbacks and suggestions for next updates.
 
-![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/Screenshot_20180901-060709.jpg)
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/splash_screen.jpg)
 
-![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/Screenshot_20180920-031647.jpg)
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/profile.jpg)
 
-![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/Screenshot_20180917-154212.jpg)
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/quotes_with_animation.jpg)
 
-![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/Screenshot_20180920-030632.jpg)
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/characters.jpg)
 
-![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/Screenshot_20180830-092244.jpg)
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/character_details.jpg)
 
-![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/Screenshot_20180920-031211.jpg)
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/drawer.jpg)
+
+![alt text](https://github.com/OmarHatem28/Rick-and-Morty/blob/master/add_quote.jpg)
